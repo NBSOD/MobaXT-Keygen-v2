@@ -18,7 +18,8 @@
 ## 作者信息
 
 - 原始作者: Double Sine
-- 修改者: KZ&Trae许可证: GPLv3
+- 修改者: KZ&Trae AI IDE
+- 许可证: GPLv3
 
 ## 使用方法
 
